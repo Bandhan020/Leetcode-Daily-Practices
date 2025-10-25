@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Leetcode\\Leetcode-Daily-Practices\\2025\\Daily Challenges\\Leetcode_1716\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84C9B1C-175E-4DBB-9B50-15512720341D}|Leetcode_1716.vcxproj|D:\\Leetcode\\Leetcode-Daily-Practices\\2025\\Daily Challenges\\Leetcode_1716\\solution_1716.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F84C9B1C-175E-4DBB-9B50-15512720341D}|Leetcode_1716.vcxproj|solutionrelative:solution_1716.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution_1716.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\Leetcode-Daily-Practices\\2025\\Daily Challenges\\Leetcode_1716\\solution_1716.cpp",
+              "RelativeDocumentMoniker": "solution_1716.cpp",
+              "ToolTip": "D:\\Leetcode\\Leetcode-Daily-Practices\\2025\\Daily Challenges\\Leetcode_1716\\solution_1716.cpp",
+              "RelativeToolTip": "solution_1716.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T14:42:29.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
