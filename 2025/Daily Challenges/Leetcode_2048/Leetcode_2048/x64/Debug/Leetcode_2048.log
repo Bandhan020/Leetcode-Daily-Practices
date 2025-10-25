@@ -1,0 +1,3 @@
+﻿  solution.cpp
+D:\Leetcode\Leetcode-Daily-Practices\2025\Daily Challenges\Leetcode_2048\solution.cpp(27,1): warning C4715: 'nextBeautifulNumber': not all control paths return a value
+  Leetcode_2048.vcxproj -> D:\Leetcode\Leetcode-Daily-Practices\2025\Daily Challenges\Leetcode_2048\x64\Debug\Leetcode_2048.exe
